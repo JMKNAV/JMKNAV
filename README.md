@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ## About Me
 
-I am a Microsoft Dynamics 365 Business Central 1st level Support Consultant. My expertise encompasses a variety of applications, including Microsoft Dynamics NAV, Microsoft Dynamics 365 Business Central, Microsoft Power BI, and Microsoft Excel. I possess a strong enthusiasm for learning about technological advancements and am passionate about exploring new ventures.
+I am a Microsoft Dynamics 365 Business Central Functional Support Consultant. My expertise encompasses a variety of applications, including Microsoft Dynamics NAV, Microsoft Dynamics 365 Business Central, Microsoft Power BI, and Microsoft Excel. I possess a strong enthusiasm for learning about technological advancements and am passionate about exploring new ventures.
 
 I am open to collaborating with individuals from diverse professional backgrounds who share a similar vision and passion for technology.
 
